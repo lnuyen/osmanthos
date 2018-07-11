@@ -1,0 +1,2 @@
+			<h3>Thank You!</h3>
+			<p><strong>Congrats!</strong> You have created your first set of mods. Please answer a few <strong><a class="how-to-links" href="https://docs.google.com/a/thescentmarket.com/spreadsheet/viewform?formkey=dGd5amtSb3hVVDdCVnRDaHVnRV93bnc6MQ">feedback questions</a></strong> and you're done! Thank you!!! ( The 'ORDER' feature is coming soon! &#9786;)</p>
