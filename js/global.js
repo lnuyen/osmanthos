@@ -458,7 +458,7 @@ $(document).ready(function() {
 
     //---------------------- FUNNNNNNCTIONS ---------------------- //
 
-    $baseUrl = 'https://osmanthos.com/';
+    $baseUrl = 'http://localhost:8888/scentlab/';
 
     // display and set background image and height for page banner
     function displayPageBanner (height, background) {
