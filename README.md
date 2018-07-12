@@ -5,6 +5,7 @@ osmanthos is an online platform where people can learn about fragrance, buy kits
 ## Built With
 
 * [CodeIgniter PHP Framework](https://github.com/bcit-ci/CodeIgniter) - The web framework used
+* [Ion Auth](https://github.com/benedmunds/CodeIgniter-Ion-Auth) - Simple and Lightweight Auth System for CodeIgniter
 * [Bootstrap](https://getbootstrap.com/)
 * [Stripe](https://stripe.com/gb) - Payments
 * [ScrollReveal](https://github.com/jlmakes/scrollreveal) - Scroll animations
